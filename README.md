@@ -1,4 +1,4 @@
-SUBDOMAIN TAKEOVER SUCCESSFULL
+!!!!!!!!!!!!!!!!!SUBDOMAIN TAKEOVER SUCCESSFULL!!!!!!!!!!!!!!!!!
 
 
 
